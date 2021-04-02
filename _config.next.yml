@@ -297,7 +297,7 @@ related_posts:
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
 post_edit:
   enable: true
-  url: https://github.com/weenas/doctree/tree/main/ # Link for view source
+  url: https://github.com/weenas/doctree/tree/main/source/ # Link for view source
   #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
@@ -694,7 +694,7 @@ leancloud_visitors:
   app_id: lPiKCTXG3hk0b9mNat5430KK-gzGzoHsz # <your app id>
   app_key: LVcfuoUtq8S7qc7aCDNuFPSE # <your app key>
   # Required for apps from CN region
-  server_url: # <your server url>
+  server_url: lean.congzong.com # <your server url>
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
