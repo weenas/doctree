@@ -1,10 +1,10 @@
 ---
-title: Linux Kernel 官方文档
+title: Linux Kernel
 date: 2021-04-02
 tags:
-	- 操作系统
+	- OS
 	- linux
-categories: 文档
+categories: OS
 ---
 
 ![Kernel](/images/linux-kernel-logo.jpg)

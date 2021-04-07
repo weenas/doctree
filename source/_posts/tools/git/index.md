@@ -1,9 +1,9 @@
 ---
 title: Pro Git
 tags:
-	- 工具
+	- tools
 	- git
-categories: 文档
+categories: tools
 ---
 
 ![ProGit](/images/progit2.png)
@@ -11,6 +11,7 @@ categories: 文档
 <!--more-->
 
 * [latest](latest)
-* [2nd Edition(2014)](progit2)
+* [2nd Edition(2014)](progit2.html)
+* [1st Edition(中文PDF)](progit.zh.pdf)
 
 [Pro Git](https://git-scm.com)

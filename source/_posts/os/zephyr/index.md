@@ -1,10 +1,10 @@
 ---
-title: Zephyr 官方文档
+title: Zephyr manual
 date: 2021-04-01
 tags:
-	- 操作系统
+	- OS
 	- zephyr
-categories: 文档
+categories: OS
 ---
 
 ![Zephyr](/images/Zephyr-Kite-logo.png)
