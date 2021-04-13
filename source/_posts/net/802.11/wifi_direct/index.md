@@ -11,5 +11,5 @@ Wi-Fi Peer-to-Peer (P2P) Technical Specification
 
 <!--more-->
 
-
-* [v1.5](Wi-Fi_P2P_Technical_Specification_v1.5.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="Wi-Fi_P2P_Technical_Specification_v1.5.pdf" target="manual">v1.5</a>

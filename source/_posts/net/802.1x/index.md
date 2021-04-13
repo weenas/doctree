@@ -10,4 +10,5 @@ Port-Based Network Access Control
 
 <!--more-->
 
-* [802.1x(2001)](802.1X-2004.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="802.1X-2004.pdf" target="manual">802.1x(2001)</a>

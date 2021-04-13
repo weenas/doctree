@@ -11,11 +11,11 @@ categories: GNU
 
 <!--more-->
 
-* [latest](latest)
-* [v10.2.0](10.2.0)
-* [v9.3.0](9.3.0)
-* [v8.4.0](8.4.0)
-* [v7.5.0](7.5.0)
-* [v6.5.0](6.5.0)
+* <a href="latest" target="manual">latest</a>
+* <a href="10.2.0" target="manual">v10.2.0</a>
+* <a href="9.3.0" target="manual">v9.3.0</a>
+* <a href="8.4.0" target="manual">v8.4.0</a>
+* <a href="7.5.0" target="manual">v7.5.0</a>
+* <a href="6.5.0" target="manual">v6.5.0</a>
 
 [GCC, the GNU Compiler Collection](gcc.gnu.org)

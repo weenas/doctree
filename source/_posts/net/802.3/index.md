@@ -10,4 +10,5 @@ Wireless LAN Medium Access Control: IEEE Standard for Ethernet
 
 <!--more-->
 
-* [802.3(2015)](802.3-2015.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="802.3-2015.pdf" target="manual">802.3(2015)</a>

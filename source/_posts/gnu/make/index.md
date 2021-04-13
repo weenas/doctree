@@ -10,4 +10,4 @@ categories: GNU
 
 <!--more-->
 
-* [latest](index.html)
+* <a href="latest" target="manual">latest</a>

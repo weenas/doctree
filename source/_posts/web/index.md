@@ -1,6 +1,6 @@
 ---
-title: Operating System
-date: 2021-04-07
+title: Web Manual
+date: 2021-04-08
 categories: Category
 ---
 
@@ -10,10 +10,9 @@ window.onload = function(){
 }
 </script>
 
-Provides various Operation System manuals.
+Provides various Web manuals.
 
 <!--more-->
 
-* [Linux](linux)
-* [Zephyr](zephyr)
-* [FreeRTOS](freertos)
+* [HTML](html)
+* [PHP](php)

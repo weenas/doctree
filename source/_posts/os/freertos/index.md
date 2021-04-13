@@ -11,6 +11,7 @@ categories: OS
 
 <!--more-->
 
-* [v10.0.0](FreeRTOS_Reference_Manual_V10.0.0.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="FreeRTOS_Reference_Manual_V10.0.0.pdf" target="manual">10.0.0</a>
 
 [FreeRTOS](https://freertos.org/)

@@ -11,7 +11,7 @@ categories: OS
 
 <!--more-->
 
-* [latest](latest)
-* [5.12.0-rc5](5.12.0-rc5)
+* <a href="latest" target="manual">latest</a>
+* <a href="5.12.0-rc5" target="manual">5.12.0-rc5</a>
 
 [Linux Kernel](https://www.kernel.org)

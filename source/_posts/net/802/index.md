@@ -10,4 +10,5 @@ Wireless LAN Medium Access Control: Overview and Architecture
 
 <!--more-->
 
-* [802(2014)](802-2014.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="802-2014.pdf" target="manual">802(2014)</a>

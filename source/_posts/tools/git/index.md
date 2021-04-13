@@ -10,8 +10,7 @@ categories: tools
 
 <!--more-->
 
-* [latest](latest)
-* [2nd Edition(2014)](progit2.html)
-* [1st Edition(中文PDF)](progit.zh.pdf)
-
-[Pro Git](https://git-scm.com)
+* <a href="latest" target="manual">latest</a>
+* <a href="progit2.html" target="manual">2nd Edition(2014)</a>
+* <a href="progit.zh.pdf" target="manual">1st Edition(中文)</a>
+* [Pro Git 官网](https://git-scm.com)

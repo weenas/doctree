@@ -11,5 +11,5 @@ Wi-Fi Protected Setup Specification
 
 <!--more-->
 
-
-* [v1.0](Wi-Fi_Protected_Setup_Specification_1.0h.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="Wi-Fi_Protected_Setup_Specification_1.0h.pdf" target="manual">v1.0</a>

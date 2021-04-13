@@ -10,4 +10,4 @@ Automake is a tool for automatically generating Makefile.ins from files called M
 
 <!--more-->
 
-* [latest](index.html)
+* <a href="latest" target="manual">latest</a>

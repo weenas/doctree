@@ -10,4 +10,5 @@ Wireless LAN Medium Access Control: (MAC) and Physical Layer (PHY) Specification
 
 <!--more-->
 
-* [802.1d(2004)](802.1D-2004.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="802.1D-2004.pdf" target="manual">802.1d(2004)</a>

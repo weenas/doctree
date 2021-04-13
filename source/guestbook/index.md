@@ -1,5 +1,5 @@
 ---
-title: 留言本
+title: 留言区
 type: guestbook
 date: 2021-03-22 00:31:49
 ---

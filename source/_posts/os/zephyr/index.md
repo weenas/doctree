@@ -11,8 +11,8 @@ categories: OS
 
 <!--more-->
 
-* [latest](latest)
-* [v2.5.99](2.5.99)
-* [v1.14.1](1.14.1)
+* <a href="latest" target="manual">latest</a>
+* <a href="2.5.99" target="manual">v2.5.99</a>
+* <a href="1.14.1" target="manual">v1.14.1</a>
 
 [Zephyr Project](https://zephyrproject.org)

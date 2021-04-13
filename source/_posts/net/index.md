@@ -1,10 +1,14 @@
 ---
 title: Network
 date: 2021-04-07
-tags:
-	- Network
-categories: Network
+categories: Category
 ---
+
+<script language="javascript">
+window.onload = function(){
+	document.getElementById("div_manual").style.display="none";
+}
+</script>
 
 ![Network](/images/big-data-network.jpg)
 

@@ -10,4 +10,5 @@ Wireless LAN Medium Access Control: Bridges and Bridged Networks
 
 <!--more-->
 
-* [802.1q(2014)](802.1q-2014.pdf)
+* <a href="latest" target="manual">latest</a>
+* <a href="802.1q-2014.pdf" target="manual">802.1q(2014)</a>
